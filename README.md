@@ -60,6 +60,6 @@
 ## ✅ Экзаменационные билет №6
 
 Ответ на экзаменационный билет доступен по ссылке:
-[билет №6](https://github.com/stankin/inet-2022/wiki/exam06)
+[билет №6](https://github.com/stankin/inet-2022/wiki/exam06)  
 [Проведённая мною ревизия](https://github.com/stankin/inet-2022/wiki/exam06/_compare/4433f3d1848fc12027b90b958a1ecc1f8b4a00d7...a0446e23a81a66e4bf440d7b1da09dfb5347027d)
 
