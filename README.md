@@ -61,5 +61,9 @@
 
 Ответ на экзаменационный билет доступен по ссылке:
 [билет №6](https://github.com/stankin/inet-2022/wiki/exam06)  
-[Проведённая мною ревизия](https://github.com/stankin/inet-2022/wiki/exam06/_compare/4433f3d1848fc12027b90b958a1ecc1f8b4a00d7...a0446e23a81a66e4bf440d7b1da09dfb5347027d)
+<br>
+Проведённые мною ревизии:  
+[Добавление информации по первому пункту билета](https://github.com/stankin/inet-2022/wiki/exam06/_compare/4433f3d1848fc12027b90b958a1ecc1f8b4a00d7...a0446e23a81a66e4bf440d7b1da09dfb5347027d)  
+Поскольку новый член команды решил почти всё старое переписать , то:  
+[Корректирование отображение информации](https://github.com/stankin/inet-2022/wiki/exam06/_compare/af273667264f6a80048076cac3fd5af5fa06e0a4...99f51bd05801a8d2ae3bfd6aa346518b2db964bf)
 
