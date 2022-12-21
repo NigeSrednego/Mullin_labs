@@ -50,7 +50,7 @@
 ## ✅ Работа над проектом ведется в команде Empty
 Роль в команде: Прикладное программирование (ПП).
 * Репозиторий проекта доступен по ссылке: [StankinBoard](https://github.com/OlFil/StankinBoard)
-* Веб-страница с описанием проекта будет доступна по ссылке: [Landing page](https://nigesrednego.github.io/Mullin_labs)
+* Веб-страница с описанием проекта будет доступна по ссылке: [Landing page](https://stankinboardempty.web.app/team)
 
 ## ✅ Лабораторная работа № 3
 Работа с Cisco Packet Tracer
